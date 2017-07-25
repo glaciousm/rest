@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mmam
+Implementation-Vendor-Id: gr.opap
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/restProject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
